@@ -1,0 +1,11 @@
+scraping/
+├── stanford-data/
+│   ├── CS229/
+│   │   ├── README.md
+│   │   ├── Lecture1.pdf
+│   │   └── notes.txt
+│   ├── CS224n/
+│   │   ├── README.md
+│   │   └── assignment1.pdf
+│   └── CS231n/
+│       └── ...
